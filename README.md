@@ -6,7 +6,7 @@ Frontend Developer
 
 * 🌍  I'm based in Vancouver, B.C.
 * ✉️  You can contact me at [ehrardt38@gmail.com](mailto:ehrardt38@gmail.com)
-* ⚡  My favorite tv show is Doctor Who
+<!-- * ⚡  My favorite tv show is Doctor Who -->
 
 ### Skills
 
