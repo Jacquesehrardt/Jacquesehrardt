@@ -4,9 +4,8 @@ Hi 👋 My name is Jacques Ehrardt
 Web Developer
 -------------
 
-* 🌍  I'm based in Vancouver, B.C.
-* 🖥️  See my portfolio at [jacquesehrardt.github.io/portfolio](http://jacquesehrardt.github.io/portfolio)
-* ✉️  You can contact me at [jacqueseh@outlook.com](mailto:jacqueseh@outlook.com)
+* 🌍  I'm based in Maceió, Brazil.
+* ✉️  You can contact me at [jacqueseh.contato@gmail.com](mailto:jacqueseh.contato@gmail.com)
 
 ### Skills
 
